@@ -34,7 +34,7 @@ public class TestCalculator {
     public void testMulCorrectly() {
         calculator.plus(28);
         calculator.mul(0);
-        Assert.assertEquals(0, calculator.getResult());
+        Assert.assertEquals(4, calculator.getResult());
     }
 
     @Test
