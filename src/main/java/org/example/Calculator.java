@@ -1,4 +1,4 @@
-package poly.edu;
+package org.example;
 
 public class Calculator {
     public int result = 0;
